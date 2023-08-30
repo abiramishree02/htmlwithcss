@@ -1,0 +1,31 @@
+.chicken{
+    text-align: center;
+    color: blue;
+}
+img{
+    float:right;
+    box-shadow: 0 0 25px rgb(110, 106, 106) ;
+    
+}
+.hen{
+    color: aqua;
+    font-style: oblique;
+}
+.tychicken{
+    color:aqua;
+    font-style: oblique;
+}
+h4{
+    font-size: larger;
+    margin: 0cm;
+    background-color: grey;
+}
+b{
+    font-size: larger;
+    font-display: 32px;
+    font-variant-caps: small-caps;
+}
+.con{
+    font-style: oblique;
+    color: aqua;
+}    
